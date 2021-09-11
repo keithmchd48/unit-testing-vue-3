@@ -1,5 +1,7 @@
 # unit-testing-vue-3
 
+Based on learning resourses by Vue Mastery. [Find the lessons for Vue 3 here](https://www.vuemastery.com/courses/unit-testing-vue-3/)
+
 ## Project setup
 ```
 npm install
